@@ -1,0 +1,1385 @@
+SLURM_JOBID = 53257215
+SLURM_JOB_NODELIST = cn086
+SLURM_NNODES = 1
+SLURMTMPDIR = 
+working directory = /nemo/lab/batesp/working/Xiao/particleCell_Simulations/2026/clonal_dynamics_codes_test_runs/lineage_tracing_model/demo_subclone_labelling_d5_low_motility
+
+Currently Loaded Modules:
+  1) GCCcore/8.3.0                 5) CUDA/10.1.243-GCC-8.3.0
+  2) zlib/1.2.11-GCCcore-8.3.0     6) gcccuda/2019b
+  3) binutils/2.32-GCCcore-8.3.0   7) cuDNN/7.6.4.38-gcccuda-2019b
+  4) GCC/8.3.0
+
+ 
+
+NPROCS=2
+Submitting jobs with srun ...
+... init Group ID = 1 ...
+... init Group ID = 1 ...
+with scale_vis = 1
+     scale_adh = 1
+     scale_mit = 1
+     scale_sen = 1
+with scale_vis = 1
+     scale_adh = 1
+     scale_mit = 1
+     scale_sen = 1
+
+ ----- pid = 359412 ----- t_now = 0 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359413 ----- t_now = 0 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359413 ----- t_now = 4 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359412 ----- t_now = 4 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359413 ----- t_now = 8 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359412 ----- t_now = 8 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359413 ----- t_now = 12 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359412 ----- t_now = 12 -----
+Group_id: 1; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+8.63348	9.26704	0	1
+
+ ----- pid = 359413 ----- t_now = 16 -----
+Group_id: 1; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+18.6345	18.5112	0	2
+
+ ----- pid = 359412 ----- t_now = 16 -----
+Group_id: 1; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+18.6345	18.5112	0	2
+
+ ----- pid = 359413 ----- t_now = 20 -----
+Group_id: 1; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+18.6345	18.5112	0	2
+
+ ----- pid = 359412 ----- t_now = 20 -----
+Group_id: 1; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+18.6345	18.5112	0	2
+
+ ----- pid = 359413 ----- t_now = 24 -----
+Group_id: 1; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+18.6345	18.5112	0	2
+
+ ----- pid = 359412 ----- t_now = 24 -----
+Group_id: 1; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+18.6345	18.5112	0	2
+
+ ----- pid = 359413 ----- t_now = 28 -----
+Group_id: 1; Group_size: 3 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+25.7251	27.2008	0	3
+
+ ----- pid = 359412 ----- t_now = 28 -----
+Group_id: 1; Group_size: 3 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+25.7251	27.2008	0	3
+
+ ----- pid = 359413 ----- t_now = 32 -----
+Group_id: 1; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+35.654	38.3353	0	4
+
+ ----- pid = 359412 ----- t_now = 32 -----
+Group_id: 1; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+35.654	38.3353	0	4
+
+ ----- pid = 359413 ----- t_now = 36 -----
+Group_id: 1; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+35.654	38.3353	0	4
+
+ ----- pid = 359412 ----- t_now = 36 -----
+Group_id: 1; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+35.654	38.3353	0	4
+
+ ----- pid = 359413 ----- t_now = 40 -----
+Group_id: 1; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+35.654	38.3353	0	4
+
+ ----- pid = 359412 ----- t_now = 40 -----
+Group_id: 1; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+35.654	38.3353	0	4
+
+ ----- pid = 359413 ----- t_now = 44 -----
+Group_id: 1; Group_size: 6 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+44.0639	53.376	0	6
+
+ ----- pid = 359413 ----- t_now = 48 -----
+Group_id: 1; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+52.5196	94.1853	0	8
+
+ ----- pid = 359412 ----- t_now = 44 -----
+Group_id: 1; Group_size: 6 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+44.0639	53.376	0	6
+
+ ----- pid = 359413 ----- t_now = 52 -----
+Group_id: 1; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+52.5	94.2354	0	8
+
+ ----- pid = 359412 ----- t_now = 48 -----
+Group_id: 1; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+52.5196	94.1853	0	8
+
+ ----- pid = 359413 ----- t_now = 56 -----
+Group_id: 1; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+52.5	94.2354	0	8
+
+ ----- pid = 359412 ----- t_now = 52 -----
+Group_id: 1; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+52.5	94.2354	0	8
+
+ ----- pid = 359413 ----- t_now = 60 -----
+Group_id: 1; Group_size: 12 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+91.5616	91.7817	0	12
+
+ ----- pid = 359412 ----- t_now = 56 -----
+Group_id: 1; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+52.5	94.2354	0	8
+
+ ----- pid = 359413 ----- t_now = 64 -----
+Group_id: 1; Group_size: 16 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+89.6722	126.319	0	16
+
+ ----- pid = 359412 ----- t_now = 60 -----
+Group_id: 1; Group_size: 12 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+91.5616	91.7817	0	12
+
+ ----- pid = 359413 ----- t_now = 68 -----
+Group_id: 1; Group_size: 16 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+89.666	126.347	0	16
+
+ ----- pid = 359412 ----- t_now = 64 -----
+Group_id: 1; Group_size: 16 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+89.6722	126.319	0	16
+
+ ----- pid = 359413 ----- t_now = 72 -----
+Group_id: 1; Group_size: 20 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+102.617	127.895	0	20
+
+ ----- pid = 359412 ----- t_now = 68 -----
+Group_id: 1; Group_size: 16 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+89.666	126.347	0	16
+
+ ----- pid = 359412 ----- t_now = 72 -----
+Group_id: 1; Group_size: 20 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+102.617	127.895	0	20
+
+ ----- pid = 359413 ----- t_now = 76 -----
+Group_id: 1; Group_size: 26 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+117.174	147.92	0	26
+
+ ----- pid = 359412 ----- t_now = 76 -----
+Group_id: 1; Group_size: 26 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+117.174	147.92	0	26
+
+ ----- pid = 359413 ----- t_now = 80 -----
+Group_id: 1; Group_size: 32 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+115.463	168.029	0	32
+
+ ----- pid = 359412 ----- t_now = 80 -----
+Group_id: 1; Group_size: 32 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+115.463	168.029	0	32
+
+ ----- pid = 359413 ----- t_now = 84 -----
+Group_id: 1; Group_size: 32 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+115.493	167.874	0	32
+
+ ----- pid = 359412 ----- t_now = 84 -----
+Group_id: 1; Group_size: 32 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+115.493	167.874	0	32
+
+ ----- pid = 359413 ----- t_now = 88 -----
+Group_id: 1; Group_size: 45 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+154.069	183.071	0	45
+
+ ----- pid = 359412 ----- t_now = 88 -----
+Group_id: 1; Group_size: 45 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+154.069	183.071	0	45
+
+ ----- pid = 359413 ----- t_now = 92 -----
+Group_id: 1; Group_size: 55 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+171.93	216.432	0	55
+
+ ----- pid = 359412 ----- t_now = 92 -----
+Group_id: 1; Group_size: 55 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+171.93	216.432	0	55
+
+ ----- pid = 359413 ----- t_now = 96 -----
+Group_id: 1; Group_size: 63 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+175.411	241.854	0	63
+
+ ----- pid = 359412 ----- t_now = 96 -----
+Group_id: 1; Group_size: 63 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+175.411	241.854	0	63
+
+ ----- pid = 359413 ----- t_now = 100 -----
+Group_id: 1; Group_size: 72 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+185.748	248.708	0	72
+
+ ----- pid = 359412 ----- t_now = 100 -----
+Group_id: 1; Group_size: 72 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+185.748	248.708	0	72
+
+ ----- pid = 359413 ----- t_now = 104 -----
+Group_id: 1; Group_size: 91 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+219.064	267.774	0	91
+
+ ----- pid = 359412 ----- t_now = 104 -----
+Group_id: 1; Group_size: 91 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+219.064	267.774	0	91
+
+ ----- pid = 359413 ----- t_now = 108 -----
+Group_id: 1; Group_size: 114 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+277.073	304.327	0	114
+
+ ----- pid = 359412 ----- t_now = 108 -----
+Group_id: 1; Group_size: 114 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+277.073	304.327	0	114
+
+ ----- pid = 359413 ----- t_now = 112 -----
+Group_id: 1; Group_size: 127 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+277.482	335.103	0	127
+
+ ----- pid = 359412 ----- t_now = 112 -----
+Group_id: 1; Group_size: 127 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+277.482	335.103	0	127
+
+ ----- pid = 359413 ----- t_now = 116 -----
+Group_id: 1; Group_size: 151 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+310.023	359.014	0	151
+
+ ----- pid = 359412 ----- t_now = 116 -----
+Group_id: 1; Group_size: 151 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+310.023	359.014	0	151
+
+ Inducing Subclones at t_now = 120 ! 
+
+
+ ----- pid = 359413 ----- t_now = 120 -----
+Group_id: 1; Group_size: 174 cells
+Group_id: 2; Group_size: 3 cells
+Group_id: 3; Group_size: 1 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 4 cells
+Group_id: 6; Group_size: 2 cells
+Group_id: 7; Group_size: 2 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 3 cells
+Group_id: 10; Group_size: 1 cells
+Group_id: 11; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+362.22	398.649	0	193
+
+ Inducing Subclones at t_now = 120 ! 
+
+
+ ----- pid = 359412 ----- t_now = 120 -----
+Group_id: 1; Group_size: 174 cells
+Group_id: 2; Group_size: 3 cells
+Group_id: 3; Group_size: 1 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 4 cells
+Group_id: 6; Group_size: 2 cells
+Group_id: 7; Group_size: 2 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 3 cells
+Group_id: 10; Group_size: 1 cells
+Group_id: 11; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+362.22	398.649	0	193
+
+ ----- pid = 359413 ----- t_now = 124 -----
+Group_id: 1; Group_size: 207 cells
+Group_id: 2; Group_size: 3 cells
+Group_id: 3; Group_size: 2 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 5 cells
+Group_id: 6; Group_size: 4 cells
+Group_id: 7; Group_size: 2 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 4 cells
+Group_id: 10; Group_size: 1 cells
+Group_id: 11; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+381.875	438.047	0	231
+
+ ----- pid = 359412 ----- t_now = 124 -----
+Group_id: 1; Group_size: 207 cells
+Group_id: 2; Group_size: 3 cells
+Group_id: 3; Group_size: 2 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 5 cells
+Group_id: 6; Group_size: 4 cells
+Group_id: 7; Group_size: 2 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 4 cells
+Group_id: 10; Group_size: 1 cells
+Group_id: 11; Group_size: 1 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+381.875	438.047	0	231
+
+ ----- pid = 359413 ----- t_now = 128 -----
+Group_id: 1; Group_size: 246 cells
+Group_id: 2; Group_size: 3 cells
+Group_id: 3; Group_size: 2 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 6 cells
+Group_id: 6; Group_size: 4 cells
+Group_id: 7; Group_size: 2 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 4 cells
+Group_id: 10; Group_size: 1 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+425.603	471.45	0	272
+
+ ----- pid = 359412 ----- t_now = 128 -----
+Group_id: 1; Group_size: 246 cells
+Group_id: 2; Group_size: 3 cells
+Group_id: 3; Group_size: 2 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 6 cells
+Group_id: 6; Group_size: 4 cells
+Group_id: 7; Group_size: 2 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 4 cells
+Group_id: 10; Group_size: 1 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+425.603	471.45	0	272
+
+ ----- pid = 359413 ----- t_now = 132 -----
+Group_id: 1; Group_size: 306 cells
+Group_id: 2; Group_size: 4 cells
+Group_id: 3; Group_size: 2 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 8 cells
+Group_id: 6; Group_size: 4 cells
+Group_id: 7; Group_size: 3 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 5 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+463.049	507.996	0	338
+
+ ----- pid = 359412 ----- t_now = 132 -----
+Group_id: 1; Group_size: 306 cells
+Group_id: 2; Group_size: 4 cells
+Group_id: 3; Group_size: 2 cells
+Group_id: 4; Group_size: 1 cells
+Group_id: 5; Group_size: 8 cells
+Group_id: 6; Group_size: 4 cells
+Group_id: 7; Group_size: 3 cells
+Group_id: 8; Group_size: 1 cells
+Group_id: 9; Group_size: 5 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+463.049	507.996	0	338
+
+ ----- pid = 359413 ----- t_now = 136 -----
+Group_id: 1; Group_size: 363 cells
+Group_id: 2; Group_size: 5 cells
+Group_id: 3; Group_size: 4 cells
+Group_id: 4; Group_size: 2 cells
+Group_id: 5; Group_size: 9 cells
+Group_id: 6; Group_size: 6 cells
+Group_id: 7; Group_size: 4 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 6 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+519.263	576.775	0	405
+
+ ----- pid = 359412 ----- t_now = 136 -----
+Group_id: 1; Group_size: 363 cells
+Group_id: 2; Group_size: 5 cells
+Group_id: 3; Group_size: 4 cells
+Group_id: 4; Group_size: 2 cells
+Group_id: 5; Group_size: 9 cells
+Group_id: 6; Group_size: 6 cells
+Group_id: 7; Group_size: 4 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 6 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+519.263	576.775	0	405
+
+ ----- pid = 359413 ----- t_now = 140 -----
+Group_id: 1; Group_size: 431 cells
+Group_id: 2; Group_size: 6 cells
+Group_id: 3; Group_size: 4 cells
+Group_id: 4; Group_size: 2 cells
+Group_id: 5; Group_size: 11 cells
+Group_id: 6; Group_size: 8 cells
+Group_id: 7; Group_size: 4 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 8 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+553.814	620.771	0	480
+
+ ----- pid = 359412 ----- t_now = 140 -----
+Group_id: 1; Group_size: 431 cells
+Group_id: 2; Group_size: 6 cells
+Group_id: 3; Group_size: 4 cells
+Group_id: 4; Group_size: 2 cells
+Group_id: 5; Group_size: 11 cells
+Group_id: 6; Group_size: 8 cells
+Group_id: 7; Group_size: 4 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 8 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 2 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+553.814	620.771	0	480
+
+ ----- pid = 359413 ----- t_now = 144 -----
+Group_id: 1; Group_size: 519 cells
+Group_id: 2; Group_size: 6 cells
+Group_id: 3; Group_size: 4 cells
+Group_id: 4; Group_size: 2 cells
+Group_id: 5; Group_size: 15 cells
+Group_id: 6; Group_size: 8 cells
+Group_id: 7; Group_size: 6 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 8 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+608.111	671.826	0	576
+
+ ----- pid = 359412 ----- t_now = 144 -----
+Group_id: 1; Group_size: 519 cells
+Group_id: 2; Group_size: 6 cells
+Group_id: 3; Group_size: 4 cells
+Group_id: 4; Group_size: 2 cells
+Group_id: 5; Group_size: 15 cells
+Group_id: 6; Group_size: 8 cells
+Group_id: 7; Group_size: 6 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 8 cells
+Group_id: 10; Group_size: 2 cells
+Group_id: 11; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+608.111	671.826	0	576
+
+ ----- pid = 359413 ----- t_now = 148 -----
+Group_id: 1; Group_size: 637 cells
+Group_id: 2; Group_size: 10 cells
+Group_id: 3; Group_size: 5 cells
+Group_id: 4; Group_size: 3 cells
+Group_id: 5; Group_size: 16 cells
+Group_id: 6; Group_size: 9 cells
+Group_id: 7; Group_size: 8 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 11 cells
+Group_id: 10; Group_size: 3 cells
+Group_id: 11; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+672.695	724.367	0	708
+
+ ----- pid = 359412 ----- t_now = 148 -----
+Group_id: 1; Group_size: 637 cells
+Group_id: 2; Group_size: 10 cells
+Group_id: 3; Group_size: 5 cells
+Group_id: 4; Group_size: 3 cells
+Group_id: 5; Group_size: 16 cells
+Group_id: 6; Group_size: 9 cells
+Group_id: 7; Group_size: 8 cells
+Group_id: 8; Group_size: 2 cells
+Group_id: 9; Group_size: 11 cells
+Group_id: 10; Group_size: 3 cells
+Group_id: 11; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+672.695	724.367	0	708
+
+ ----- pid = 359413 ----- t_now = 152 -----
+Group_id: 1; Group_size: 758 cells
+Group_id: 2; Group_size: 10 cells
+Group_id: 3; Group_size: 6 cells
+Group_id: 4; Group_size: 4 cells
+Group_id: 5; Group_size: 18 cells
+Group_id: 6; Group_size: 14 cells
+Group_id: 7; Group_size: 8 cells
+Group_id: 8; Group_size: 3 cells
+Group_id: 9; Group_size: 11 cells
+Group_id: 10; Group_size: 4 cells
+Group_id: 11; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+725.626	774.651	0	840
+
+ ----- pid = 359412 ----- t_now = 152 -----
+Group_id: 1; Group_size: 758 cells
+Group_id: 2; Group_size: 10 cells
+Group_id: 3; Group_size: 6 cells
+Group_id: 4; Group_size: 4 cells
+Group_id: 5; Group_size: 18 cells
+Group_id: 6; Group_size: 14 cells
+Group_id: 7; Group_size: 8 cells
+Group_id: 8; Group_size: 3 cells
+Group_id: 9; Group_size: 11 cells
+Group_id: 10; Group_size: 4 cells
+Group_id: 11; Group_size: 4 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+725.626	774.651	0	840
+
+ ----- pid = 359413 ----- t_now = 156 -----
+Group_id: 1; Group_size: 895 cells
+Group_id: 2; Group_size: 12 cells
+Group_id: 3; Group_size: 8 cells
+Group_id: 4; Group_size: 5 cells
+Group_id: 5; Group_size: 23 cells
+Group_id: 6; Group_size: 16 cells
+Group_id: 7; Group_size: 8 cells
+Group_id: 8; Group_size: 4 cells
+Group_id: 9; Group_size: 16 cells
+Group_id: 10; Group_size: 4 cells
+Group_id: 11; Group_size: 6 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+798.802	819.838	0	997
+
+ ----- pid = 359412 ----- t_now = 156 -----
+Group_id: 1; Group_size: 895 cells
+Group_id: 2; Group_size: 12 cells
+Group_id: 3; Group_size: 8 cells
+Group_id: 4; Group_size: 5 cells
+Group_id: 5; Group_size: 23 cells
+Group_id: 6; Group_size: 16 cells
+Group_id: 7; Group_size: 8 cells
+Group_id: 8; Group_size: 4 cells
+Group_id: 9; Group_size: 16 cells
+Group_id: 10; Group_size: 4 cells
+Group_id: 11; Group_size: 6 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+798.802	819.838	0	997
+
+ ----- pid = 359413 ----- t_now = 160 -----
+Group_id: 1; Group_size: 1088 cells
+Group_id: 2; Group_size: 15 cells
+Group_id: 3; Group_size: 8 cells
+Group_id: 4; Group_size: 6 cells
+Group_id: 5; Group_size: 31 cells
+Group_id: 6; Group_size: 16 cells
+Group_id: 7; Group_size: 14 cells
+Group_id: 8; Group_size: 4 cells
+Group_id: 9; Group_size: 19 cells
+Group_id: 10; Group_size: 4 cells
+Group_id: 11; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+865.381	896.629	0	1213
+
+ ----- pid = 359412 ----- t_now = 160 -----
+Group_id: 1; Group_size: 1088 cells
+Group_id: 2; Group_size: 15 cells
+Group_id: 3; Group_size: 8 cells
+Group_id: 4; Group_size: 6 cells
+Group_id: 5; Group_size: 31 cells
+Group_id: 6; Group_size: 16 cells
+Group_id: 7; Group_size: 14 cells
+Group_id: 8; Group_size: 4 cells
+Group_id: 9; Group_size: 19 cells
+Group_id: 10; Group_size: 4 cells
+Group_id: 11; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+865.381	896.629	0	1213
+
+ ----- pid = 359413 ----- t_now = 164 -----
+Group_id: 1; Group_size: 1317 cells
+Group_id: 2; Group_size: 18 cells
+Group_id: 3; Group_size: 11 cells
+Group_id: 4; Group_size: 6 cells
+Group_id: 5; Group_size: 32 cells
+Group_id: 6; Group_size: 18 cells
+Group_id: 7; Group_size: 15 cells
+Group_id: 8; Group_size: 4 cells
+Group_id: 9; Group_size: 21 cells
+Group_id: 10; Group_size: 8 cells
+Group_id: 11; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+924.749	973.951	0	1458
+
+ ----- pid = 359412 ----- t_now = 164 -----
+Group_id: 1; Group_size: 1317 cells
+Group_id: 2; Group_size: 18 cells
+Group_id: 3; Group_size: 11 cells
+Group_id: 4; Group_size: 6 cells
+Group_id: 5; Group_size: 32 cells
+Group_id: 6; Group_size: 18 cells
+Group_id: 7; Group_size: 15 cells
+Group_id: 8; Group_size: 4 cells
+Group_id: 9; Group_size: 21 cells
+Group_id: 10; Group_size: 8 cells
+Group_id: 11; Group_size: 8 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+924.749	973.951	0	1458
+
+ ----- pid = 359413 ----- t_now = 168 -----
+Group_id: 1; Group_size: 1573 cells
+Group_id: 2; Group_size: 21 cells
+Group_id: 3; Group_size: 14 cells
+Group_id: 4; Group_size: 7 cells
+Group_id: 5; Group_size: 40 cells
+Group_id: 6; Group_size: 29 cells
+Group_id: 7; Group_size: 16 cells
+Group_id: 8; Group_size: 8 cells
+Group_id: 9; Group_size: 25 cells
+Group_id: 10; Group_size: 8 cells
+Group_id: 11; Group_size: 9 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+993.64	1044.95	0	1750
+
+ ----- pid = 359412 ----- t_now = 168 -----
+Group_id: 1; Group_size: 1573 cells
+Group_id: 2; Group_size: 21 cells
+Group_id: 3; Group_size: 14 cells
+Group_id: 4; Group_size: 7 cells
+Group_id: 5; Group_size: 40 cells
+Group_id: 6; Group_size: 29 cells
+Group_id: 7; Group_size: 16 cells
+Group_id: 8; Group_size: 8 cells
+Group_id: 9; Group_size: 25 cells
+Group_id: 10; Group_size: 8 cells
+Group_id: 11; Group_size: 9 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+993.64	1044.95	0	1750
+
+ ----- pid = 359413 ----- t_now = 172 -----
+Group_id: 1; Group_size: 1869 cells
+Group_id: 2; Group_size: 24 cells
+Group_id: 3; Group_size: 16 cells
+Group_id: 4; Group_size: 9 cells
+Group_id: 5; Group_size: 56 cells
+Group_id: 6; Group_size: 32 cells
+Group_id: 7; Group_size: 21 cells
+Group_id: 8; Group_size: 8 cells
+Group_id: 9; Group_size: 29 cells
+Group_id: 10; Group_size: 8 cells
+Group_id: 11; Group_size: 12 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1071.88	1104.37	0	2084
+
+ ----- pid = 359412 ----- t_now = 172 -----
+Group_id: 1; Group_size: 1869 cells
+Group_id: 2; Group_size: 24 cells
+Group_id: 3; Group_size: 16 cells
+Group_id: 4; Group_size: 9 cells
+Group_id: 5; Group_size: 56 cells
+Group_id: 6; Group_size: 32 cells
+Group_id: 7; Group_size: 21 cells
+Group_id: 8; Group_size: 8 cells
+Group_id: 9; Group_size: 29 cells
+Group_id: 10; Group_size: 8 cells
+Group_id: 11; Group_size: 12 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1071.88	1104.37	0	2084
+
+ ----- pid = 359413 ----- t_now = 176 -----
+Group_id: 1; Group_size: 2212 cells
+Group_id: 2; Group_size: 27 cells
+Group_id: 3; Group_size: 18 cells
+Group_id: 4; Group_size: 12 cells
+Group_id: 5; Group_size: 63 cells
+Group_id: 6; Group_size: 32 cells
+Group_id: 7; Group_size: 28 cells
+Group_id: 8; Group_size: 8 cells
+Group_id: 9; Group_size: 36 cells
+Group_id: 10; Group_size: 10 cells
+Group_id: 11; Group_size: 16 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1144.45	1173.59	0	2462
+
+ ----- pid = 359412 ----- t_now = 176 -----
+Group_id: 1; Group_size: 2212 cells
+Group_id: 2; Group_size: 27 cells
+Group_id: 3; Group_size: 18 cells
+Group_id: 4; Group_size: 12 cells
+Group_id: 5; Group_size: 63 cells
+Group_id: 6; Group_size: 32 cells
+Group_id: 7; Group_size: 28 cells
+Group_id: 8; Group_size: 8 cells
+Group_id: 9; Group_size: 36 cells
+Group_id: 10; Group_size: 10 cells
+Group_id: 11; Group_size: 16 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1144.45	1173.59	0	2462
+
+ ----- pid = 359413 ----- t_now = 180 -----
+Group_id: 1; Group_size: 2560 cells
+Group_id: 2; Group_size: 33 cells
+Group_id: 3; Group_size: 25 cells
+Group_id: 4; Group_size: 12 cells
+Group_id: 5; Group_size: 69 cells
+Group_id: 6; Group_size: 38 cells
+Group_id: 7; Group_size: 28 cells
+Group_id: 8; Group_size: 10 cells
+Group_id: 9; Group_size: 45 cells
+Group_id: 10; Group_size: 16 cells
+Group_id: 11; Group_size: 17 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1217.72	1244.37	0	2853
+
+ ----- pid = 359412 ----- t_now = 180 -----
+Group_id: 1; Group_size: 2560 cells
+Group_id: 2; Group_size: 33 cells
+Group_id: 3; Group_size: 25 cells
+Group_id: 4; Group_size: 12 cells
+Group_id: 5; Group_size: 69 cells
+Group_id: 6; Group_size: 38 cells
+Group_id: 7; Group_size: 28 cells
+Group_id: 8; Group_size: 10 cells
+Group_id: 9; Group_size: 45 cells
+Group_id: 10; Group_size: 16 cells
+Group_id: 11; Group_size: 17 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1217.72	1244.37	0	2853
+
+ ----- pid = 359413 ----- t_now = 184 -----
+Group_id: 1; Group_size: 2939 cells
+Group_id: 2; Group_size: 38 cells
+Group_id: 3; Group_size: 29 cells
+Group_id: 4; Group_size: 16 cells
+Group_id: 5; Group_size: 79 cells
+Group_id: 6; Group_size: 50 cells
+Group_id: 7; Group_size: 33 cells
+Group_id: 8; Group_size: 12 cells
+Group_id: 9; Group_size: 52 cells
+Group_id: 10; Group_size: 16 cells
+Group_id: 11; Group_size: 21 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1276.23	1326.14	0	3285
+
+ ----- pid = 359412 ----- t_now = 184 -----
+Group_id: 1; Group_size: 2939 cells
+Group_id: 2; Group_size: 38 cells
+Group_id: 3; Group_size: 29 cells
+Group_id: 4; Group_size: 16 cells
+Group_id: 5; Group_size: 79 cells
+Group_id: 6; Group_size: 50 cells
+Group_id: 7; Group_size: 33 cells
+Group_id: 8; Group_size: 12 cells
+Group_id: 9; Group_size: 52 cells
+Group_id: 10; Group_size: 16 cells
+Group_id: 11; Group_size: 21 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1276.23	1326.14	0	3285
+
+ ----- pid = 359413 ----- t_now = 188 -----
+Group_id: 1; Group_size: 3390 cells
+Group_id: 2; Group_size: 42 cells
+Group_id: 3; Group_size: 33 cells
+Group_id: 4; Group_size: 20 cells
+Group_id: 5; Group_size: 96 cells
+Group_id: 6; Group_size: 54 cells
+Group_id: 7; Group_size: 36 cells
+Group_id: 8; Group_size: 12 cells
+Group_id: 9; Group_size: 60 cells
+Group_id: 10; Group_size: 17 cells
+Group_id: 11; Group_size: 25 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1379.4	1376.24	0	3785
+
+ ----- pid = 359412 ----- t_now = 188 -----
+Group_id: 1; Group_size: 3390 cells
+Group_id: 2; Group_size: 42 cells
+Group_id: 3; Group_size: 33 cells
+Group_id: 4; Group_size: 20 cells
+Group_id: 5; Group_size: 96 cells
+Group_id: 6; Group_size: 54 cells
+Group_id: 7; Group_size: 36 cells
+Group_id: 8; Group_size: 12 cells
+Group_id: 9; Group_size: 60 cells
+Group_id: 10; Group_size: 17 cells
+Group_id: 11; Group_size: 25 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1379.4	1376.24	0	3785
+
+ ----- pid = 359412 ----- t_now = 192 -----
+Group_id: 1; Group_size: 3854 cells
+Group_id: 2; Group_size: 47 cells
+Group_id: 3; Group_size: 39 cells
+Group_id: 4; Group_size: 21 cells
+Group_id: 5; Group_size: 106 cells
+Group_id: 6; Group_size: 55 cells
+Group_id: 7; Group_size: 37 cells
+Group_id: 8; Group_size: 12 cells
+Group_id: 9; Group_size: 66 cells
+Group_id: 10; Group_size: 22 cells
+Group_id: 11; Group_size: 27 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1446.84	1460.72	0	4286
+
+ ----- pid = 359413 ----- t_now = 192 -----
+Group_id: 1; Group_size: 3854 cells
+Group_id: 2; Group_size: 47 cells
+Group_id: 3; Group_size: 39 cells
+Group_id: 4; Group_size: 21 cells
+Group_id: 5; Group_size: 106 cells
+Group_id: 6; Group_size: 55 cells
+Group_id: 7; Group_size: 37 cells
+Group_id: 8; Group_size: 12 cells
+Group_id: 9; Group_size: 66 cells
+Group_id: 10; Group_size: 22 cells
+Group_id: 11; Group_size: 27 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1446.84	1460.72	0	4286
+
+ ----- pid = 359412 ----- t_now = 196 -----
+Group_id: 1; Group_size: 4334 cells
+Group_id: 2; Group_size: 53 cells
+Group_id: 3; Group_size: 53 cells
+Group_id: 4; Group_size: 22 cells
+Group_id: 5; Group_size: 112 cells
+Group_id: 6; Group_size: 59 cells
+Group_id: 7; Group_size: 43 cells
+Group_id: 8; Group_size: 14 cells
+Group_id: 9; Group_size: 78 cells
+Group_id: 10; Group_size: 31 cells
+Group_id: 11; Group_size: 30 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1514.76	1535.4	0	4829
+
+ ----- pid = 359413 ----- t_now = 196 -----
+Group_id: 1; Group_size: 4334 cells
+Group_id: 2; Group_size: 53 cells
+Group_id: 3; Group_size: 53 cells
+Group_id: 4; Group_size: 22 cells
+Group_id: 5; Group_size: 112 cells
+Group_id: 6; Group_size: 59 cells
+Group_id: 7; Group_size: 43 cells
+Group_id: 8; Group_size: 14 cells
+Group_id: 9; Group_size: 78 cells
+Group_id: 10; Group_size: 31 cells
+Group_id: 11; Group_size: 30 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1514.76	1535.4	0	4829
+
+ ----- pid = 359412 ----- t_now = 200 -----
+Group_id: 1; Group_size: 4865 cells
+Group_id: 2; Group_size: 59 cells
+Group_id: 3; Group_size: 60 cells
+Group_id: 4; Group_size: 23 cells
+Group_id: 5; Group_size: 130 cells
+Group_id: 6; Group_size: 65 cells
+Group_id: 7; Group_size: 45 cells
+Group_id: 8; Group_size: 16 cells
+Group_id: 9; Group_size: 89 cells
+Group_id: 10; Group_size: 32 cells
+Group_id: 11; Group_size: 37 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1598.35	1621.48	0	5421
+
+ ----- pid = 359413 ----- t_now = 200 -----
+Group_id: 1; Group_size: 4865 cells
+Group_id: 2; Group_size: 59 cells
+Group_id: 3; Group_size: 60 cells
+Group_id: 4; Group_size: 23 cells
+Group_id: 5; Group_size: 130 cells
+Group_id: 6; Group_size: 65 cells
+Group_id: 7; Group_size: 45 cells
+Group_id: 8; Group_size: 16 cells
+Group_id: 9; Group_size: 89 cells
+Group_id: 10; Group_size: 32 cells
+Group_id: 11; Group_size: 37 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1598.35	1621.48	0	5421
+
+ ----- pid = 359413 ----- t_now = 204 -----
+Group_id: 1; Group_size: 5446 cells
+Group_id: 2; Group_size: 63 cells
+Group_id: 3; Group_size: 65 cells
+Group_id: 4; Group_size: 24 cells
+Group_id: 5; Group_size: 148 cells
+Group_id: 6; Group_size: 66 cells
+Group_id: 7; Group_size: 48 cells
+Group_id: 8; Group_size: 20 cells
+Group_id: 9; Group_size: 105 cells
+Group_id: 10; Group_size: 36 cells
+Group_id: 11; Group_size: 37 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1685.09	1702.52	0	6058
+
+ ----- pid = 359412 ----- t_now = 204 -----
+Group_id: 1; Group_size: 5446 cells
+Group_id: 2; Group_size: 63 cells
+Group_id: 3; Group_size: 65 cells
+Group_id: 4; Group_size: 24 cells
+Group_id: 5; Group_size: 148 cells
+Group_id: 6; Group_size: 66 cells
+Group_id: 7; Group_size: 48 cells
+Group_id: 8; Group_size: 20 cells
+Group_id: 9; Group_size: 105 cells
+Group_id: 10; Group_size: 36 cells
+Group_id: 11; Group_size: 37 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1685.09	1702.52	0	6058
+
+ ----- pid = 359413 ----- t_now = 208 -----
+Group_id: 1; Group_size: 6021 cells
+Group_id: 2; Group_size: 64 cells
+Group_id: 3; Group_size: 82 cells
+Group_id: 4; Group_size: 24 cells
+Group_id: 5; Group_size: 167 cells
+Group_id: 6; Group_size: 66 cells
+Group_id: 7; Group_size: 50 cells
+Group_id: 8; Group_size: 21 cells
+Group_id: 9; Group_size: 121 cells
+Group_id: 10; Group_size: 48 cells
+Group_id: 11; Group_size: 40 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1764.76	1782.84	0	6704
+
+ ----- pid = 359412 ----- t_now = 208 -----
+Group_id: 1; Group_size: 6021 cells
+Group_id: 2; Group_size: 64 cells
+Group_id: 3; Group_size: 82 cells
+Group_id: 4; Group_size: 24 cells
+Group_id: 5; Group_size: 167 cells
+Group_id: 6; Group_size: 66 cells
+Group_id: 7; Group_size: 50 cells
+Group_id: 8; Group_size: 21 cells
+Group_id: 9; Group_size: 121 cells
+Group_id: 10; Group_size: 48 cells
+Group_id: 11; Group_size: 40 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1764.76	1782.84	0	6704
+
+ ----- pid = 359413 ----- t_now = 212 -----
+Group_id: 1; Group_size: 6610 cells
+Group_id: 2; Group_size: 66 cells
+Group_id: 3; Group_size: 101 cells
+Group_id: 4; Group_size: 25 cells
+Group_id: 5; Group_size: 183 cells
+Group_id: 6; Group_size: 67 cells
+Group_id: 7; Group_size: 50 cells
+Group_id: 8; Group_size: 21 cells
+Group_id: 9; Group_size: 131 cells
+Group_id: 10; Group_size: 57 cells
+Group_id: 11; Group_size: 40 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1836.99	1855.78	0	7351
+
+ ----- pid = 359412 ----- t_now = 212 -----
+Group_id: 1; Group_size: 6610 cells
+Group_id: 2; Group_size: 66 cells
+Group_id: 3; Group_size: 101 cells
+Group_id: 4; Group_size: 25 cells
+Group_id: 5; Group_size: 183 cells
+Group_id: 6; Group_size: 67 cells
+Group_id: 7; Group_size: 50 cells
+Group_id: 8; Group_size: 21 cells
+Group_id: 9; Group_size: 131 cells
+Group_id: 10; Group_size: 57 cells
+Group_id: 11; Group_size: 40 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1836.99	1855.78	0	7351
+
+ ----- pid = 359413 ----- t_now = 216 -----
+Group_id: 1; Group_size: 7294 cells
+Group_id: 2; Group_size: 68 cells
+Group_id: 3; Group_size: 110 cells
+Group_id: 4; Group_size: 25 cells
+Group_id: 5; Group_size: 204 cells
+Group_id: 6; Group_size: 69 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 150 cells
+Group_id: 10; Group_size: 60 cells
+Group_id: 11; Group_size: 45 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1939.96	1933.7	0	8102
+
+ ----- pid = 359412 ----- t_now = 216 -----
+Group_id: 1; Group_size: 7294 cells
+Group_id: 2; Group_size: 68 cells
+Group_id: 3; Group_size: 110 cells
+Group_id: 4; Group_size: 25 cells
+Group_id: 5; Group_size: 204 cells
+Group_id: 6; Group_size: 69 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 150 cells
+Group_id: 10; Group_size: 60 cells
+Group_id: 11; Group_size: 45 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+1939.96	1933.7	0	8102
+
+ ----- pid = 359413 ----- t_now = 220 -----
+Group_id: 1; Group_size: 8034 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 122 cells
+Group_id: 4; Group_size: 27 cells
+Group_id: 5; Group_size: 230 cells
+Group_id: 6; Group_size: 70 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 166 cells
+Group_id: 10; Group_size: 70 cells
+Group_id: 11; Group_size: 47 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2009.73	2028.89	0	8913
+
+ ----- pid = 359412 ----- t_now = 220 -----
+Group_id: 1; Group_size: 8034 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 122 cells
+Group_id: 4; Group_size: 27 cells
+Group_id: 5; Group_size: 230 cells
+Group_id: 6; Group_size: 70 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 166 cells
+Group_id: 10; Group_size: 70 cells
+Group_id: 11; Group_size: 47 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2009.73	2028.89	0	8913
+
+ ----- pid = 359413 ----- t_now = 224 -----
+Group_id: 1; Group_size: 8717 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 140 cells
+Group_id: 4; Group_size: 27 cells
+Group_id: 5; Group_size: 255 cells
+Group_id: 6; Group_size: 72 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 180 cells
+Group_id: 10; Group_size: 90 cells
+Group_id: 11; Group_size: 47 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2077.96	2108.18	0	9675
+
+ ----- pid = 359412 ----- t_now = 224 -----
+Group_id: 1; Group_size: 8717 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 140 cells
+Group_id: 4; Group_size: 27 cells
+Group_id: 5; Group_size: 255 cells
+Group_id: 6; Group_size: 72 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 180 cells
+Group_id: 10; Group_size: 90 cells
+Group_id: 11; Group_size: 47 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2077.96	2108.18	0	9675
+
+ ----- pid = 359413 ----- t_now = 228 -----
+Group_id: 1; Group_size: 9455 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 161 cells
+Group_id: 4; Group_size: 28 cells
+Group_id: 5; Group_size: 282 cells
+Group_id: 6; Group_size: 73 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 200 cells
+Group_id: 10; Group_size: 105 cells
+Group_id: 11; Group_size: 48 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2142.7	2197.58	0	10499
+
+ ----- pid = 359412 ----- t_now = 228 -----
+Group_id: 1; Group_size: 9455 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 161 cells
+Group_id: 4; Group_size: 28 cells
+Group_id: 5; Group_size: 282 cells
+Group_id: 6; Group_size: 73 cells
+Group_id: 7; Group_size: 55 cells
+Group_id: 8; Group_size: 22 cells
+Group_id: 9; Group_size: 200 cells
+Group_id: 10; Group_size: 105 cells
+Group_id: 11; Group_size: 48 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2142.7	2197.58	0	10499
+
+ ----- pid = 359413 ----- t_now = 232 -----
+Group_id: 1; Group_size: 10247 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 179 cells
+Group_id: 4; Group_size: 28 cells
+Group_id: 5; Group_size: 312 cells
+Group_id: 6; Group_size: 73 cells
+Group_id: 7; Group_size: 57 cells
+Group_id: 8; Group_size: 23 cells
+Group_id: 9; Group_size: 225 cells
+Group_id: 10; Group_size: 112 cells
+Group_id: 11; Group_size: 50 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2240.33	2296.15	0	11376
+
+ ----- pid = 359412 ----- t_now = 232 -----
+Group_id: 1; Group_size: 10247 cells
+Group_id: 2; Group_size: 70 cells
+Group_id: 3; Group_size: 179 cells
+Group_id: 4; Group_size: 28 cells
+Group_id: 5; Group_size: 312 cells
+Group_id: 6; Group_size: 73 cells
+Group_id: 7; Group_size: 57 cells
+Group_id: 8; Group_size: 23 cells
+Group_id: 9; Group_size: 225 cells
+Group_id: 10; Group_size: 112 cells
+Group_id: 11; Group_size: 50 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2240.33	2296.15	0	11376
+
+ ----- pid = 359413 ----- t_now = 236 -----
+Group_id: 1; Group_size: 11089 cells
+Group_id: 2; Group_size: 75 cells
+Group_id: 3; Group_size: 199 cells
+Group_id: 4; Group_size: 28 cells
+Group_id: 5; Group_size: 345 cells
+Group_id: 6; Group_size: 78 cells
+Group_id: 7; Group_size: 57 cells
+Group_id: 8; Group_size: 23 cells
+Group_id: 9; Group_size: 244 cells
+Group_id: 10; Group_size: 129 cells
+Group_id: 11; Group_size: 50 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2327.28	2365.43	0	12317
+
+ ----- pid = 359412 ----- t_now = 236 -----
+Group_id: 1; Group_size: 11089 cells
+Group_id: 2; Group_size: 75 cells
+Group_id: 3; Group_size: 199 cells
+Group_id: 4; Group_size: 28 cells
+Group_id: 5; Group_size: 345 cells
+Group_id: 6; Group_size: 78 cells
+Group_id: 7; Group_size: 57 cells
+Group_id: 8; Group_size: 23 cells
+Group_id: 9; Group_size: 244 cells
+Group_id: 10; Group_size: 129 cells
+Group_id: 11; Group_size: 50 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2327.28	2365.43	0	12317
+
+ ----- pid = 359413 ----- t_now = 240 -----
+Group_id: 1; Group_size: 11866 cells
+Group_id: 2; Group_size: 75 cells
+Group_id: 3; Group_size: 224 cells
+Group_id: 4; Group_size: 31 cells
+Group_id: 5; Group_size: 379 cells
+Group_id: 6; Group_size: 78 cells
+Group_id: 7; Group_size: 57 cells
+Group_id: 8; Group_size: 23 cells
+Group_id: 9; Group_size: 265 cells
+Group_id: 10; Group_size: 154 cells
+Group_id: 11; Group_size: 50 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2396.13	2446.61	0	13202
+
+ ----- pid = 359412 ----- t_now = 240 -----
+Group_id: 1; Group_size: 11866 cells
+Group_id: 2; Group_size: 75 cells
+Group_id: 3; Group_size: 224 cells
+Group_id: 4; Group_size: 31 cells
+Group_id: 5; Group_size: 379 cells
+Group_id: 6; Group_size: 78 cells
+Group_id: 7; Group_size: 57 cells
+Group_id: 8; Group_size: 23 cells
+Group_id: 9; Group_size: 265 cells
+Group_id: 10; Group_size: 154 cells
+Group_id: 11; Group_size: 50 cells
+--- Summary of Virtual Tumour ---
+DIM_X (um) 	 DIM_Y (um) 	 DIM_Z (um) 	 NUM_CELL
+2396.13	2446.61	0	13202
+Done!
