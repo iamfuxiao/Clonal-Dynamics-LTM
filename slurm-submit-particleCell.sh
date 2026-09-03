@@ -30,7 +30,7 @@ echo NPROCS=$NPROCS
 echo "Submitting jobs with srun ..."
 export OMP_NUM_THREADS=32
 
-srun ${PWD}/virtualTumour 
+srun ./virtualTumour 
 wait
 
 echo "Done!"

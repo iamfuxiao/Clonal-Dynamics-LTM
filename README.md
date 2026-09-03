@@ -1,6 +1,8 @@
 # Clonal dynamics code - Lineage Tracing Model (LTM)
 
-Note: the project was historically referred to as "particleCell" model of tumours, when it started in 2018. The readers/users can still see variable names and code comments that may be reminiscent of particles.  
+## introduction
+
+This codebase is used for simulations of lineage tracing and subclone labelling in the manuscript Bailey_Bhargava_Fu_etal ([Preprint](https://doi.org/10.1101/2025.09.15.675999); Manuscript under review).
 
 ## overview of codes 
 
@@ -37,6 +39,6 @@ Information about `uname --kernel-name --kernel-release --machine` returns `Linu
 
 4. Explore the script to visualise subclone patterns. Follow the script in `visualise_subclone_patterns.ipynb`
 
-## feedback 
+## feedback and contact
 
-Any feedback on the codes and demo simulations would be very welcome and should be sent to `xiao.fu@crick.ac.uk`.
+Any feedback on the agent-based model, codes and demo simulations would be very welcome and should be sent to Xiao Fu `xiao.fu@crick.ac.uk`. For wider discussions on the clonal dynamics project and manuscript, please also contact Erik Sahai `erik.sahai@crick.ac.uk`.
