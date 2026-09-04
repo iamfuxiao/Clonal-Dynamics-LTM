@@ -22,7 +22,7 @@ The demo simulations are designed to show the effect of the cell's intrinsic ran
 
 To make the computational cost manageable (under 1 hour of walltime using 4 CPU cores per simulation), these parameters are selected:
 - **T = 240**, which reflects model time of 10 days.
-- **NUM_HOUR_INDUCE_SUBCL = 168**, which reflects subclone labelling at day 5. 
+- **NUM_HOUR_INDUCE_SUBCL = 120**, which reflects subclone labelling at day 5. 
 
 **seed = 123** has been set for the random number generator for reproducible results in this demo. 
 
